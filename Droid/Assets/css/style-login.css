@@ -1,0 +1,9 @@
+﻿body {
+	background-color: #fff;
+	margin: 16px;
+}
+
+label,
+input {
+	display: block;
+}

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoRazor", "TodoRazor\TodoRazor.csproj", "{3A5B3996-E6FA-485C-A1AE-25C2DF1288C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoRazor.Droid", "Droid\TodoRazor.Droid.csproj", "{F9AA1482-9FEC-48B4-BCBA-B88F1D0683A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5B3996-E6FA-485C-A1AE-25C2DF1288C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5B3996-E6FA-485C-A1AE-25C2DF1288C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5B3996-E6FA-485C-A1AE-25C2DF1288C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5B3996-E6FA-485C-A1AE-25C2DF1288C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AA1482-9FEC-48B4-BCBA-B88F1D0683A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AA1482-9FEC-48B4-BCBA-B88F1D0683A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AA1482-9FEC-48B4-BCBA-B88F1D0683A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AA1482-9FEC-48B4-BCBA-B88F1D0683A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
